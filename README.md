@@ -1,9 +1,10 @@
 <h2 align='center'> Hi! Welcome to my Github, I'm Megan 🌸 </h2>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+
+![ezgif-3-bfd136d3f6](https://user-images.githubusercontent.com/103383384/186537574-20847a2b-0689-448a-aa41-e157f5758f84.gif)
 
 - 🇨🇦 I am a Full-Stack Web Developer located in Toronto, ON
-- 🧠 My education background is in Neuroscience
+- 🧠 I have an educational background in Neuroscience
 - 💻 Currently Working On: personal portfolio website
 - 🐱 Fun Fact: I have a cat named Chicken Alfredo, Alfie for short
 - 🌈 Pronous: she/her
