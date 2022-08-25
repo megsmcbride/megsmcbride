@@ -1,15 +1,71 @@
-<h2 align="center"> Hi! Welcome to my Github, I'm Megan 🌸 </h2>
+<h1  align="center"> Hi! Welcome to my Github, I'm Megan 🌸 </h1>
 
-## About Me:
+<h3> About Me: </h3>
+
 - 🇨🇦 I am a Full-Stack Web Developer located in Toronto, ON
 - 🧠 I have an educational background in Neuroscience
 - 💻 Currently Working On: A personal portfolio website
 - 🐱 Fun Fact: I have a cat named Chicken Alfredo, Alfie for short
 - 🌈 Pronous: she/her
 
-## Reach Me:
-<img alt="LinkedIn" align="center" height="30px" width="auto" src="./img/linkedin.png" href="https://www.linkedin.com/in/megsmcbride/">    <img alt="Email" align="center" height="30px" width="auto" src="./img/gmail.png" href="mailto:meganambermcbride@gmail.com"/>
+---
 
-## Stats
+<h3> Reach Me: </h3>
+<div>
+  <img alt="LinkedIn" align="center" height="30px" width="auto" src="./img/linkedin.png" href="https://www.linkedin.com/in/megsmcbride/"> 
+  <img alt="Email" align="center" height="30px" width="auto" src="./img/gmail.png" href="mailto:meganambermcbride@gmail.com"/>
+</div>
 
-## 
+
+---
+<h3> Stats: </h3>
+
+| <a href="https://github.com/megsmcbride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=megsmcbride&show_icons=true&theme=dracula&hide_border=true" alt="Colleen's github stats" /></a> | <a href="https://github.com/megmcbride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megsmcbride&layout=compact&langs_count=8&theme=dracula&hide_border=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+
+---
+<h3> Languages & Tools: </h3>
+
+<h4> Languages: </h4>
+<p>
+  <img alt="javascript" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="html5" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img alt="sass" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img alt="css3" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img alt="ruby" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
+</p>
+
+<h4> Frameworks & Libraries: </h4>
+<p>
+  <img alt="jquery" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  <img alt="nodejs" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img alt="react" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img alt="rails" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+  <img alt="express" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img alt="bootstrap" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img alt="material-UI" height="40px" src="https://mui.com/static/logo.png" />
+  <img alt="chakra-UI" height="40px" src="https://www.coffeeclass.io/logos/chakra-ui.png" />
+</p>
+
+<h4> Systems & Databases: </h4>
+<p>
+<img alt="postgresql" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img alt="git" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+
+</p>
+
+<h4> Testing & More: </h4>
+
+<p>
+<img alt="mocha" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+<img alt="chai" height="48px" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" />
+<img alt="jest" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img alt="cypress" height="48px" src="https://icons-for-free.com/download-icon-cypress-1324440144114984250_512.png"/>
+<img alt="storybook" height="48px" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" />
+<img alt="eslint" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
+</p>
+
+
+---
+
