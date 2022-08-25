@@ -11,10 +11,8 @@
 ---
 
 <h3> Reach Me: </h3>
-<div>
-  <img alt="LinkedIn" align="center" height="30px" width="auto" src="./img/linkedin.png" href="https://www.linkedin.com/in/megsmcbride/"> 
-  <img alt="Email" align="center" height="30px" width="auto" src="./img/gmail.png" href="mailto:meganambermcbride@gmail.com"/>
-</div>
+
+[<img alt="LinkedIn" height="30px" width="auto" src="./img/linkedin.png" />](https://www.linkedin.com/in/megsmcbride/) [<img alt="Email" height="30px" width="auto" src="./img/gmail.png" />](mailto:meganambermcbride@gmail.com) 
 
 
 ---
