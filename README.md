@@ -23,9 +23,8 @@
 
 
 ---
-<h3> Languages & Tools: </h3>
 
-<h4> Languages: </h4>
+<h3> Languages: </h3>
 <p>
   <img alt="javascript" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="html5" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -34,7 +33,7 @@
   <img alt="ruby" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
 </p>
 
-<h4> Frameworks & Libraries: </h4>
+<h3> Frameworks & Libraries: </h3>
 <p>
   <img alt="jquery" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img alt="nodejs" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -46,14 +45,14 @@
   <img alt="chakra-UI" height="40px" src="https://www.coffeeclass.io/logos/chakra-ui.png" />
 </p>
 
-<h4> Systems & Databases: </h4>
+<h3> Systems & Databases: </h3>
 <p>
 <img alt="postgresql" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img alt="git" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
 </p>
 
-<h4> Testing & More: </h4>
+<h3> Testing & More: </h3>
 
 <p>
 <img alt="mocha" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
