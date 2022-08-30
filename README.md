@@ -6,7 +6,7 @@
 - 🧠 I have an educational background in Neuroscience
 - 💻 Currently Working On: A personal portfolio website
 - 🐱 Fun Fact: I have a cat named Chicken Alfredo, Alfie for short
-- 🌈 Pronous: she/her
+- 🌈 Pronouns: she/her
 
 ---
 
