@@ -18,7 +18,7 @@
 ---
 <h3> Stats: </h3>
 
-| <a href="https://github.com/megsmcbride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=megsmcbride&show_icons=true&theme=dracula&hide_border=true" alt="Colleen's github stats" /></a> | <a href="https://github.com/megmcbride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megsmcbride&layout=compact&langs_count=8&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/megsmcbride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=megsmcbride&show_icons=true&theme=dracula&hide_border=true" alt="Megans's github stats" /></a> | <a href="https://github.com/megmcbride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megsmcbride&layout=compact&langs_count=8&theme=dracula&hide_border=true" /></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 
