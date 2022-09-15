@@ -4,7 +4,7 @@
 
 - 🇨🇦 I am a Full-Stack Web Developer located in Toronto, ON
 - 🧠 I have an educational background in Neuroscience
-- 💻 Currently Working On: Learning TypeScript
+- 💻 Currently Working On: Learning TypeScript and a portfolio website
 - 🐱 Fun Fact: I have a cat named Chicken Alfredo, Alfie for short
 - 🌈 Pronouns: she/her
 
