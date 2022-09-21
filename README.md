@@ -7,7 +7,7 @@
 - 💻 Currently Working On: Learning TypeScript and a portfolio website
 - 🐱 Fun Fact: I have a cat named Chicken Alfredo, Alfie for short
 - 🌈 Pronouns: she/her
-- 👩🏼‍💻 Portfolio: <a href="http://megsmcbride.com/">
+- 👩🏼‍💻 Portfolio: <a href="http://megsmcbride.com/">megsmcbride.com</a>
 
 ---
 
