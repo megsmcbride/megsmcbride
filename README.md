@@ -5,9 +5,10 @@
 - 🇨🇦 I am a Full-Stack Web Developer located in Toronto, ON
 - 🧠 I have an educational background in Neuroscience
 - 📚 Currently Working On: Learning TypeScript and Angular
+- 👩🏼‍💻 Portfolio: <a href="http://megsmcbride.com/">megsmcbride.com</a>
 - 🐱 Fun Fact: I have a cat named Chicken Alfredo, Alfie for short
 - 🌈 Pronouns: she/her
-- 👩🏼‍💻 Portfolio: <a href="http://megsmcbride.com/">megsmcbride.com</a>
+
 
 ---
 
