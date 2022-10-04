@@ -17,6 +17,14 @@
 [<img alt="LinkedIn" height="30px" width="auto" src="./img/linkedin.png" />](https://www.linkedin.com/in/megsmcbride/) [<img alt="Email" height="30px" width="auto" src="./img/gmail.png" />](mailto:meganambermcbride@gmail.com) 
 
 ---
+<h3> Stats: </h3>
+
+| <a href="https://github.com/megsmcbride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=megsmcbride&show_icons=true&theme=dracula&hide_border=true" alt="Megan's github stats" /></a> | <a href="https://github.com/megmcbride/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megsmcbride&layout=compact&langs_count=8&theme=dracula&hide_border=true" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+
+
+---
 
 <h3> Languages: </h3>
 <p>
